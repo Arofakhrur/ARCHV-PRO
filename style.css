@@ -1,0 +1,13 @@
+@import url(https://fonts.google.com/specimen/Teko?stroke=Sans+Serif);
+
+body {
+    font-family: 'Teko', sans-serif !important;
+}
+
+.iconNav {
+    height: 20px;
+    width: fit-content;
+    padding-right:10px;
+}
+
+
